@@ -1,10 +1,10 @@
     body {
-        font-family: "Crimson Text", "Times New Roman", serif;
+        font-family: "Crimson Text", , serif;
         background-color: #F2FFFC;
     }
     h1,
     h2 {
-        font-family: "Open Sans Condensed", "Arial", sans-serif;
+        font-family: "Open Sans Condensed", sans-serif;
     }
     h1 {
         text-align: center;
